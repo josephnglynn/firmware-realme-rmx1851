@@ -1,0 +1,1 @@
+{"oppo_devinfo.als":{"owner":"oppo","cal_path":{"type":"str","ver":"0","data":"tsl2540_platform.als.fac_cal"}}}
