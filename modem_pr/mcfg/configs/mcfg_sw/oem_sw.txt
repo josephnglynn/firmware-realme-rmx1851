@@ -70,3 +70,10 @@ mcfg_sw/generic/eu/vodafone/volte/cz/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/mx/volte/att/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/commerci/mx/mcfg_sw.mbn
 mcfg_sw/generic/eu/sfr/commerci/fr/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/malay/volte/celcom/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/malay/volte/maxis/mcfg_sw.mbn
+mcfg_sw/generic/sea/umobile/commerci/malaysia/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/volte/vinaphon/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/volte/vm/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/commerci/vietnam/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/pk/telenor/commerci/volte/mcfg_sw.mbn
