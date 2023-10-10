@@ -117,10 +117,13 @@ mcfg_sw/generic/oppo_exp/india/volte/vdf/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/kenya/volte/safarico/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/mx/volte/att/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/malay/commerci/digi/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/malay/volte/celcom/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/malay/volte/maxis/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/myanmar/commerci/telenor/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/nz/noims/spark/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/nz/volte/2degree/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/noims/noims/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/pk/telenor/commerci/volte/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/rakuten/commerci/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/srilanka/volte/dialog/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/srilanka/volte/mobitel/mcfg_sw.mbn
@@ -128,6 +131,9 @@ mcfg_sw/generic/oppo_exp/tpg/volte/tpg/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/turkey/volte/turkcell/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/uae/volte/etisalat/mcfg_sw.mbn
 mcfg_sw/generic/oppo_exp/vietnam/commerci/gmobile/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/commerci/vietnam/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/volte/vm/mcfg_sw.mbn
+mcfg_sw/generic/oppo_exp/vietnam/volte/vinaphon/mcfg_sw.mbn
 mcfg_sw/generic/russia/beeline/gen_3gpp/mcfg_sw.mbn
 mcfg_sw/generic/russia/megafon/commerci/ru/mcfg_sw.mbn
 mcfg_sw/generic/sa/brazil/commerci/mcfg_sw.mbn
