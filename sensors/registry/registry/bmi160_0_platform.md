@@ -1,1 +1,0 @@
-{"bmi160_0_platform.md":{"owner":"bmi160","config":{"type":"grp","ver":"0","data":""}}}
